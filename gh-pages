@@ -1,0 +1,231 @@
+<!DOCTYPE HTML>
+<html><head>
+		<title>
+		Hostal Timara | Hotel Timara | Hostel Timara | BaÃ±os, Tungurahua, Ecuador
+		</title>
+		<link href="hoteltimara.css" rel="stylesheet" type="text/css">
+		<link href="Caudex.css" rel="stylesheet" type="text/css">
+		 <meta name="description" content=" Located in the heart of BaÃ±os, Hostal Timara offers affordable rooms with the cleanliness and serenity of an expensive resourt. Services include Wifi, hot water, guest kitchen, private of shared bathroom and luggage storage ">
+		 <meta name="viewport" content=" initial-scale=1"> <!-- width=device-width,  -->
+		<!--<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>    IN ALLURA.CSS-->
+		<script src="jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="script.js"></script>
+		
+		<!-- slideshow pluggin-->
+		<script type="text/javascript" src="jquery.cycle.all.js">
+		</script>
+		<!-- slideshow-->
+		<script type="text/javascript">
+		$(document).ready(function() {
+    			$('.slideshow').cycle({
+				fx: 'fade',
+			     	// choose your transition type, ex: fade, scrollUp, shuffle, etc...
+				pager:'#dotbox',
+				next: '.slideshow',
+				pause: 1,
+				timeout:3000
+
+			});
+		/*	$('.storytime').cycle({
+				fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+				pager:'#dotbox',
+				next: '.slideshow',
+				pause: 1,
+				timeout:6000
+				}); */
+		});
+		</script>	
+	</head>
+	
+	<body>
+	
+       
+		<!--<div id="bg">
+  			<img src="zakanthos.jpg" alt="">
+		</div> -->
+	
+			<!--<div class="divider">
+			</div>-->
+			
+			 	
+
+		<div id="buttons">
+			<div id="centerme">
+			<div id="roomtab"> <a style="text-shadow: black 2px 2px 17px;">Rooms</a> 
+			</div>
+			<div id="locationtab"> <a style="text-shadow: black 2px 2px 17px;">Location</a>
+	       		</div>
+  			<div id="titlebox">  <!-- style="background-color: #3d63b8"-->
+<h1> Hostal Timara </h1>
+
+			
+	     </div>
+       <div id="line">
+					<hr id="tabsline"> 
+				</div>
+			</div>
+		</div>	
+	
+		<!--	 for making footer touch bottom if absolute <div class="clearfooter"> </div>-->
+			
+
+		
+		<div class="contentbox" id="ourstorybox">
+	
+		  
+			<div class="slideshow"> 
+
+				   <div class="centered">	
+			        	<img class="images" id="image1"  src="http://media-cdn.tripadvisor.com/media/photo-s/02/63/84/24/the-hostel-from-the-street.jpg">
+			    	</div>
+			
+				
+
+				   <div class="centered">
+			        	<img class="images" id="image2" src="Courtyard_flowers.jpg" >
+			    	</div>
+				
+
+				   <div class="centered">
+			         <img class="images" id="image3" src="Courtyard_white.jpg">
+			    	</div>
+			
+
+				
+            <div class="centered">
+				         <img class="images" id="image4" src="Walkway_entire.jpg">
+            </div>
+				
+			
+
+			
+	            <div class="centered">
+			           	<img class="images" id="image6" src="Hammack.jpg">
+			        	</div>
+				
+			        	 <div class="centered">
+			             	<img class="images" id="image7" src="tortuga1.jpg">
+				        </div>
+				
+				        <div class="centered">
+			             	<img class="images" id="image8" src="Courtyard_sol.jpg">
+			        	</div>
+        
+				
+			</div>
+		  <div id="TA_rated654" class="TA_rated">
+        <ul id="mYelPk8BXK3" class="TA_links G01CkT">
+        <li id="nqkZ1g" class="tVvZojTFb">
+        <a target="_blank" href="https://www.tripadvisor.com/     "><img src="http://www.tripadvisor.com/img/cdsi/img2/badges/recommended_en-11424-2.gif" alt="TripAdvisor"/></a>
+        </li>
+        </ul>
+      </div>
+<script src="http://www.jscache.com/wejs?wtype=rated&amp;uniq=654&amp;locationId=2205122&amp;lang=en_US&amp;langversion=2"></script>
+
+			<div id="dotbox">	
+						<!--
+				<a href= "image1"> <img src="dot.png"> </a>
+				<a href= "image2"> <img src="dot.png"> </a>
+				<a href= "image3"> <img src="dot.png"> </a>
+				<a href= "image4"> <img src="dot.png"> </a>
+				<a href= "image5"> <img src="dot.png"> </a>
+				<a href= "image6"> <img src="dot.png"> </a>
+			--> <a href="#" class=""></a><a href="#" class=""></a><a href="#" class=""></a><a href="#" class=""></a><a href="#" class=""></a><a href="#" class=""></a><a href="#" class=""></a><a href="#" class=""></a><a href="#" class="activeSlide"></a>
+     </div>
+			
+			 
+		</div>
+		
+
+
+
+		
+		<div class="contentbox" id="menubox">
+				<br>
+				<div id="roomtitle"> <h2> Guest Kitchen | Wifi | 24 Hour Hot Water |  Multi-day Luggage Storage  </h2>
+       </div>
+				
+				
+				<div id="roomlist">
+					
+
+	       	<div class="roomdescription">  <p>Single, double and triple rooms available with:</p> <button type="button"> <a id= "menul1" >private bathroom ($10)</a></button><br><button type="button"><a id="menul2" >shared bathrooms ($7)</a></button>          
+         </div>
+
+
+       
+         <div id="TA_selfserveprop672" class="TA_selfserveprop">
+           <ul id="yMVCcGn" class="TA_links ZUTXaT51">
+           <li id="sk1UCfaUm" class="5pRMxW">
+           <a target="_blank" href="http://www.tripadvisor.com/"><img src="http://www.tripadvisor.com/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a>
+           </li>
+           </ul>
+         </div>
+        <script src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=672&amp;locationId=2205122&amp;lang=en_US&amp;rating=true&amp;nreviews=2&amp;writereviewlink=true&amp;popIdx=false&amp;iswide=false&amp;border=false&amp;langversion=2"></script>
+      </div>
+
+
+		   	<div id="roomitems">
+
+
+         
+					<div class="item" id="item2">
+					
+						
+						<div class="roomimage">
+							<img src="doubleshared.jpg" alt="">
+						</div>
+
+					</div>
+
+					<div class="item" id="item1">
+						
+						<div class="roomimage">
+              <img src="doubleprivate.jpg" alt="">
+						</div> 
+					</div>
+
+
+
+					
+		  	</div> 
+			
+			
+
+		</div>
+
+	<div id="centerme2">
+		<div class="contentbox" id="infobox" >	
+			<div id="infobar">
+				 Past the corner of Maldonado and Martinez  Banos, Ecuador  <br><br> Reserve now <a href="tel:032742821"> 03-2742821</a> , <a href="tel:0994113242"> 09-94113242</a> or
+<a href="mailto:hostal.timara@gmail.com"> hostal.timara@gmail.com</a>
+			      <!-- &nbsp;-->
+			       
+
+			</div>
+
+
+      <div id="map">
+			 		<div id="centerme3">
+
+         <img src= "http://maps.googleapis.com/maps/api/staticmap?center=-1.3982399,-78.4236846&zoom=16&size=600x400&maptype=roadmap&markers=color:blue|label:Hostal+Timara|-1.39911,-78.42376&path=color:0x0000ff|weight:5| -1.3955083, -78.4240 |-1.39911,-78.42376"> 
+			 			<!-- <img src="http://maps.google.com/maps/api/staticmap?center=-1.3982399,-78.4236846&zoom=16&size=600x400&maptype=roadmap&sensor=false&language=&markers=color:red|label:none|-1.3982399,-78.4236846" title="Martinez y Maldonado BaÃ±os Ecuador || Powered by MapsEasy.com" width="600" height="400" style="border:1px solid #CECECE;">-->
+
+<!--<iframe width="600" height="405" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=920+Tates+Creek+Road,+Lexington,+KY+40502&amp;sll=37.0625,-95.677068&amp;sspn=45.149289,78.662109&amp;ie=UTF8&amp;hq=&amp;hnear=920+Tates+Creek+Rd,+Lexington-Fayette,+Fayette,+Kentucky+40502&amp;ll=38.026695,-84.49093&amp;spn=0.002028,0.003433&amp;z=18&amp;iwloc=A&amp;output=embed"></iframe>-->
+       <p> Only four blocks from the Bus Terminal </p>
+			  </div>
+			 	</div>
+
+		</div>
+			<!--<div style="display: inline-block;">
+
+				<video id= "video1" src="tortuga.mp4">
+				<video id= "video2" src="flowers.mp4">
+			</div>-->
+
+
+		</div>	
+	</div>
+	
+
+</body></html>
